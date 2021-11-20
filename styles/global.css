@@ -1,0 +1,35 @@
+                * {
+                    margin: 0;
+                    padding: 0;
+                    box-sizing: border-box;
+                    border: none;
+                    list-style: none;
+                    text-decoration: none;
+                }
+                
+                html {
+                    font-size: 62.5%;
+                }
+                
+                body {
+                    -webkit-font-smoothing: antialiased;
+                    font-family: "Lexend Deca";
+                    font-weight: 400;
+                    background: var(--grey-100);
+                    font-size: 1.8rem;
+                }
+                
+                 :root {
+                    --purple-900: #574AE8;
+                    --grey-900: #475461;
+                    --grey-500: #B6B6B6;
+                    --grey-100: #F3F5F7;
+                    --white-100: #FFFFFF;
+                    --grey-800: #313131
+                }
+                
+                .container {
+                    width: 100%;
+                    max-width: min(90rem, 90%);
+                    margin: 0 auto;
+                }
