@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="portfolio" src="https://github.com/pvsmda/Blog/blob/main/screen%20capture.png?raw=true" width="100%">
+  <img alt="portfolio" src="https://github.com/pvsmda/games/blob/main/screencapture-file-C-Users-paulo-Documents-ProjetosHtml-MatrixRain-index-html-2021-12-28-11_23_03.png?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -23,23 +23,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
+- JS
 
-Bibliotecas
-
-- [Google Fonts](https://fonts.google.com/)
-
-
-Utilitários
-
-- [Feather Icons](https://feathericons.com/)
 
 ## 💻 Projeto
 
-Este projeto é um blog no formato One Page, responsiva, criada para treinar os conhecimentos em html e css, mostrando suas habilidade e etc. Contém as seguintes seções: Header e main .
-
-## 🔖 Layout
-
-Criado por [Iuri Silva](https://www.linkedin.com/in/iuricode/), o layout do projeto pode ser visualizado atráves [desse link]( https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=31145%3A80). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Este projeto é um jogo no formato One Page, responsiva, criada para treinar os conhecimentos em html, css e javascript.
 
 ## 📝 Licença
 
